@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dte77yxy1n3f5"
+path="res://.godot/imported/Hilly_Prop_Bridge_Log_Middle.obj-4d4142796cd185e344c7ad05cfd218cf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Hilly_Prop_Bridge_Log_Middle.obj-4d4142796cd185e344c7ad05cfd218cf.mesh"]
+
+source_file="res://assets/Modular Terrain Collection/Hilly_Prop_Bridge_Log_Middle.obj"
+dest_files=["res://.godot/imported/Hilly_Prop_Bridge_Log_Middle.obj-4d4142796cd185e344c7ad05cfd218cf.mesh", "res://.godot/imported/Hilly_Prop_Bridge_Log_Middle.obj-4d4142796cd185e344c7ad05cfd218cf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

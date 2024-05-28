@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dxpjrl6t4r14t"
+path="res://.godot/imported/Cave_Prop_Stalagmite_Connected_Base.obj-7484d2df9df34700d7d74a23db8fe09f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Cave_Prop_Stalagmite_Connected_Base.obj-7484d2df9df34700d7d74a23db8fe09f.mesh"]
+
+source_file="res://assets/Modular Terrain Collection/Cave_Prop_Stalagmite_Connected_Base.obj"
+dest_files=["res://.godot/imported/Cave_Prop_Stalagmite_Connected_Base.obj-7484d2df9df34700d7d74a23db8fe09f.mesh", "res://.godot/imported/Cave_Prop_Stalagmite_Connected_Base.obj-7484d2df9df34700d7d74a23db8fe09f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

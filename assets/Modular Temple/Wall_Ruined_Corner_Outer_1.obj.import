@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bcaxivi3je5gj"
+path="res://.godot/imported/Wall_Ruined_Corner_Outer_1.obj-344a3caf45d5b37ff677863bbe2e00fd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Wall_Ruined_Corner_Outer_1.obj-344a3caf45d5b37ff677863bbe2e00fd.mesh"]
+
+source_file="res://assets/Modular Temple/Wall_Ruined_Corner_Outer_1.obj"
+dest_files=["res://.godot/imported/Wall_Ruined_Corner_Outer_1.obj-344a3caf45d5b37ff677863bbe2e00fd.mesh", "res://.godot/imported/Wall_Ruined_Corner_Outer_1.obj-344a3caf45d5b37ff677863bbe2e00fd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

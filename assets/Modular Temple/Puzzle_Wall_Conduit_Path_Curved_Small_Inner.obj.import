@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://8ghr4xoxh5v7"
+path="res://.godot/imported/Puzzle_Wall_Conduit_Path_Curved_Small_Inner.obj-6ee5e09881168dd56dd7955d0335d5eb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Puzzle_Wall_Conduit_Path_Curved_Small_Inner.obj-6ee5e09881168dd56dd7955d0335d5eb.mesh"]
+
+source_file="res://assets/Modular Temple/Puzzle_Wall_Conduit_Path_Curved_Small_Inner.obj"
+dest_files=["res://.godot/imported/Puzzle_Wall_Conduit_Path_Curved_Small_Inner.obj-6ee5e09881168dd56dd7955d0335d5eb.mesh", "res://.godot/imported/Puzzle_Wall_Conduit_Path_Curved_Small_Inner.obj-6ee5e09881168dd56dd7955d0335d5eb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

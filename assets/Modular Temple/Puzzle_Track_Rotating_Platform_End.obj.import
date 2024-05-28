@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dk6wny7j6bwtf"
+path="res://.godot/imported/Puzzle_Track_Rotating_Platform_End.obj-7ca64f5d7478260687eb3a97653817d9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Puzzle_Track_Rotating_Platform_End.obj-7ca64f5d7478260687eb3a97653817d9.mesh"]
+
+source_file="res://assets/Modular Temple/Puzzle_Track_Rotating_Platform_End.obj"
+dest_files=["res://.godot/imported/Puzzle_Track_Rotating_Platform_End.obj-7ca64f5d7478260687eb3a97653817d9.mesh", "res://.godot/imported/Puzzle_Track_Rotating_Platform_End.obj-7ca64f5d7478260687eb3a97653817d9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

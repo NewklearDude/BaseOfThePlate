@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://duudd2bk518me"
+path="res://.godot/imported/Tower_Steps.obj-5c5eb9e4fcf1816596cb54aa2d8a451f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Tower_Steps.obj-5c5eb9e4fcf1816596cb54aa2d8a451f.mesh"]
+
+source_file="res://assets/Modular Temple/Tower_Steps.obj"
+dest_files=["res://.godot/imported/Tower_Steps.obj-5c5eb9e4fcf1816596cb54aa2d8a451f.mesh", "res://.godot/imported/Tower_Steps.obj-5c5eb9e4fcf1816596cb54aa2d8a451f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

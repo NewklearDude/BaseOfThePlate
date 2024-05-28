@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bk688kee6bt8m"
+path="res://.godot/imported/Balcony_Railing_End.obj-b4753d830e68aeaff0147959a939c3eb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Balcony_Railing_End.obj-b4753d830e68aeaff0147959a939c3eb.mesh"]
+
+source_file="res://assets/Modular Temple/Balcony_Railing_End.obj"
+dest_files=["res://.godot/imported/Balcony_Railing_End.obj-b4753d830e68aeaff0147959a939c3eb.mesh", "res://.godot/imported/Balcony_Railing_End.obj-b4753d830e68aeaff0147959a939c3eb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

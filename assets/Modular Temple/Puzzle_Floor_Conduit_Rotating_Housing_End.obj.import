@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://btcixx822m3ov"
+path="res://.godot/imported/Puzzle_Floor_Conduit_Rotating_Housing_End.obj-d43e9bac446d63ce29d7e6e560221a99.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Puzzle_Floor_Conduit_Rotating_Housing_End.obj-d43e9bac446d63ce29d7e6e560221a99.mesh"]
+
+source_file="res://assets/Modular Temple/Puzzle_Floor_Conduit_Rotating_Housing_End.obj"
+dest_files=["res://.godot/imported/Puzzle_Floor_Conduit_Rotating_Housing_End.obj-d43e9bac446d63ce29d7e6e560221a99.mesh", "res://.godot/imported/Puzzle_Floor_Conduit_Rotating_Housing_End.obj-d43e9bac446d63ce29d7e6e560221a99.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

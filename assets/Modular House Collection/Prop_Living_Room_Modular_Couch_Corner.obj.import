@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ith28mtpbvpw"
+path="res://.godot/imported/Prop_Living_Room_Modular_Couch_Corner.obj-d3d8259332f69c84b7d833e957e3d5fd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Living_Room_Modular_Couch_Corner.obj-d3d8259332f69c84b7d833e957e3d5fd.mesh"]
+
+source_file="res://assets/Modular House Collection/Prop_Living_Room_Modular_Couch_Corner.obj"
+dest_files=["res://.godot/imported/Prop_Living_Room_Modular_Couch_Corner.obj-d3d8259332f69c84b7d833e957e3d5fd.mesh", "res://.godot/imported/Prop_Living_Room_Modular_Couch_Corner.obj-d3d8259332f69c84b7d833e957e3d5fd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

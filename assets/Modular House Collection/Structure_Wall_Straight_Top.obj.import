@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cn86rewiaq1jg"
+path="res://.godot/imported/Structure_Wall_Straight_Top.obj-5a10ba5e9c86625f99a34eb886bec8e9.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Structure_Wall_Straight_Top.obj-5a10ba5e9c86625f99a34eb886bec8e9.mesh"]
+
+source_file="res://assets/Modular House Collection/Structure_Wall_Straight_Top.obj"
+dest_files=["res://.godot/imported/Structure_Wall_Straight_Top.obj-5a10ba5e9c86625f99a34eb886bec8e9.mesh", "res://.godot/imported/Structure_Wall_Straight_Top.obj-5a10ba5e9c86625f99a34eb886bec8e9.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

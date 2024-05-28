@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cul4cxke6h3yj"
+path="res://.godot/imported/Floor_Ruined_Corner_Inner_2.obj-fbc645ed08afb3c679c97cc80e7a45dc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Floor_Ruined_Corner_Inner_2.obj-fbc645ed08afb3c679c97cc80e7a45dc.mesh"]
+
+source_file="res://assets/Modular Temple/Floor_Ruined_Corner_Inner_2.obj"
+dest_files=["res://.godot/imported/Floor_Ruined_Corner_Inner_2.obj-fbc645ed08afb3c679c97cc80e7a45dc.mesh", "res://.godot/imported/Floor_Ruined_Corner_Inner_2.obj-fbc645ed08afb3c679c97cc80e7a45dc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

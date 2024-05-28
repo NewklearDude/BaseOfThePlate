@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b5gutsyewko83"
+path="res://.godot/imported/Flower_Sunflower_2.obj-3eb6cc305f7cc58f168bb2a28a171291.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Flower_Sunflower_2.obj-3eb6cc305f7cc58f168bb2a28a171291.mesh"]
+
+source_file="res://assets/Nature Kit/models/Flower_Sunflower_2.obj"
+dest_files=["res://.godot/imported/Flower_Sunflower_2.obj-3eb6cc305f7cc58f168bb2a28a171291.mesh", "res://.godot/imported/Flower_Sunflower_2.obj-3eb6cc305f7cc58f168bb2a28a171291.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

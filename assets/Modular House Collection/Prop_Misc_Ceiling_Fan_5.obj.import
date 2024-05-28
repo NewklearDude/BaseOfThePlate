@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://csmr2sldpxhn0"
+path="res://.godot/imported/Prop_Misc_Ceiling_Fan_5.obj-ad74f920e90e9ee1cdd0cd29db1e8bfa.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Misc_Ceiling_Fan_5.obj-ad74f920e90e9ee1cdd0cd29db1e8bfa.mesh"]
+
+source_file="res://assets/Modular House Collection/Prop_Misc_Ceiling_Fan_5.obj"
+dest_files=["res://.godot/imported/Prop_Misc_Ceiling_Fan_5.obj-ad74f920e90e9ee1cdd0cd29db1e8bfa.mesh", "res://.godot/imported/Prop_Misc_Ceiling_Fan_5.obj-ad74f920e90e9ee1cdd0cd29db1e8bfa.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

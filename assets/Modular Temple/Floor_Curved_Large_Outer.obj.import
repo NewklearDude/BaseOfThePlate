@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ciphxmlhw06op"
+path="res://.godot/imported/Floor_Curved_Large_Outer.obj-7ba5b82a9d2bc5ac148b17e42b07dca0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Floor_Curved_Large_Outer.obj-7ba5b82a9d2bc5ac148b17e42b07dca0.mesh"]
+
+source_file="res://assets/Modular Temple/Floor_Curved_Large_Outer.obj"
+dest_files=["res://.godot/imported/Floor_Curved_Large_Outer.obj-7ba5b82a9d2bc5ac148b17e42b07dca0.mesh", "res://.godot/imported/Floor_Curved_Large_Outer.obj-7ba5b82a9d2bc5ac148b17e42b07dca0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

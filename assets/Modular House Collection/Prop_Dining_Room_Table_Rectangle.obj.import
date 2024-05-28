@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b4ri15jr6d6n6"
+path="res://.godot/imported/Prop_Dining_Room_Table_Rectangle.obj-47f7940d00df43046e079909e8eb93cf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Dining_Room_Table_Rectangle.obj-47f7940d00df43046e079909e8eb93cf.mesh"]
+
+source_file="res://assets/Modular House Collection/Prop_Dining_Room_Table_Rectangle.obj"
+dest_files=["res://.godot/imported/Prop_Dining_Room_Table_Rectangle.obj-47f7940d00df43046e079909e8eb93cf.mesh", "res://.godot/imported/Prop_Dining_Room_Table_Rectangle.obj-47f7940d00df43046e079909e8eb93cf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

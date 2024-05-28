@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cplelladbthax"
+path="res://.godot/imported/Structure_Exterior_Doorway.obj-760fa74abec5b478229977ea09992dac.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Structure_Exterior_Doorway.obj-760fa74abec5b478229977ea09992dac.mesh"]
+
+source_file="res://assets/Modular House Collection/Structure_Exterior_Doorway.obj"
+dest_files=["res://.godot/imported/Structure_Exterior_Doorway.obj-760fa74abec5b478229977ea09992dac.mesh", "res://.godot/imported/Structure_Exterior_Doorway.obj-760fa74abec5b478229977ea09992dac.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

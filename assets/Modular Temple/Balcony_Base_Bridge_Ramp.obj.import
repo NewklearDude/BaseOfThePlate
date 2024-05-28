@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://yp3l5efoclci"
+path="res://.godot/imported/Balcony_Base_Bridge_Ramp.obj-82dd4062695369653fcdd83400124271.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Balcony_Base_Bridge_Ramp.obj-82dd4062695369653fcdd83400124271.mesh"]
+
+source_file="res://assets/Modular Temple/Balcony_Base_Bridge_Ramp.obj"
+dest_files=["res://.godot/imported/Balcony_Base_Bridge_Ramp.obj-82dd4062695369653fcdd83400124271.mesh", "res://.godot/imported/Balcony_Base_Bridge_Ramp.obj-82dd4062695369653fcdd83400124271.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

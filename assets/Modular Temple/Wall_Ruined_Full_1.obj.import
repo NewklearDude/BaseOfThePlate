@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dqur3nxujjmo4"
+path="res://.godot/imported/Wall_Ruined_Full_1.obj-7aae79131604029f6c15e23b3973af33.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Wall_Ruined_Full_1.obj-7aae79131604029f6c15e23b3973af33.mesh"]
+
+source_file="res://assets/Modular Temple/Wall_Ruined_Full_1.obj"
+dest_files=["res://.godot/imported/Wall_Ruined_Full_1.obj-7aae79131604029f6c15e23b3973af33.mesh", "res://.godot/imported/Wall_Ruined_Full_1.obj-7aae79131604029f6c15e23b3973af33.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

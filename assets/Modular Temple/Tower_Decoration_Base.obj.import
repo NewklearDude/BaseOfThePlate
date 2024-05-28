@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d2cu0yxcen2sy"
+path="res://.godot/imported/Tower_Decoration_Base.obj-758c816f8f502fbfd766f437438319ce.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Tower_Decoration_Base.obj-758c816f8f502fbfd766f437438319ce.mesh"]
+
+source_file="res://assets/Modular Temple/Tower_Decoration_Base.obj"
+dest_files=["res://.godot/imported/Tower_Decoration_Base.obj-758c816f8f502fbfd766f437438319ce.mesh", "res://.godot/imported/Tower_Decoration_Base.obj-758c816f8f502fbfd766f437438319ce.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

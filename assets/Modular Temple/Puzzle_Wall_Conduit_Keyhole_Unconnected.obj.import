@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tag6enww0a0i"
+path="res://.godot/imported/Puzzle_Wall_Conduit_Keyhole_Unconnected.obj-2b93d0d7691aa2fe083293ff405054a6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Puzzle_Wall_Conduit_Keyhole_Unconnected.obj-2b93d0d7691aa2fe083293ff405054a6.mesh"]
+
+source_file="res://assets/Modular Temple/Puzzle_Wall_Conduit_Keyhole_Unconnected.obj"
+dest_files=["res://.godot/imported/Puzzle_Wall_Conduit_Keyhole_Unconnected.obj-2b93d0d7691aa2fe083293ff405054a6.mesh", "res://.godot/imported/Puzzle_Wall_Conduit_Keyhole_Unconnected.obj-2b93d0d7691aa2fe083293ff405054a6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

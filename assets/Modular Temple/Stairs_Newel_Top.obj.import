@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bk2121vgwas1b"
+path="res://.godot/imported/Stairs_Newel_Top.obj-1c566e2f54dd26d0edded38662fccf5d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Stairs_Newel_Top.obj-1c566e2f54dd26d0edded38662fccf5d.mesh"]
+
+source_file="res://assets/Modular Temple/Stairs_Newel_Top.obj"
+dest_files=["res://.godot/imported/Stairs_Newel_Top.obj-1c566e2f54dd26d0edded38662fccf5d.mesh", "res://.godot/imported/Stairs_Newel_Top.obj-1c566e2f54dd26d0edded38662fccf5d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

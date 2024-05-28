@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://vdrpontkcqfm"
+path.s3tc="res://.godot/imported/Flower_Bellflower_1-2237122aa1f175498fac17994cc02955_Flower Stamen Gold.png-6756b7c8d4cc8bd54d451287d56c8d5f.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "a309e77b1b562eac92da06ac2109172c"
+}
+
+[deps]
+
+source_file="res://assets/Nature Kit/models/Flower_Bellflower_1-2237122aa1f175498fac17994cc02955_Flower Stamen Gold.png"
+dest_files=["res://.godot/imported/Flower_Bellflower_1-2237122aa1f175498fac17994cc02955_Flower Stamen Gold.png-6756b7c8d4cc8bd54d451287d56c8d5f.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

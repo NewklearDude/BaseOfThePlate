@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://xp63dxp0wgu8"
+path="res://.godot/imported/Grass_Clump_5.obj-8166a4af8edd410f6dde395439ea8bbf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Grass_Clump_5.obj-8166a4af8edd410f6dde395439ea8bbf.mesh"]
+
+source_file="res://assets/Nature Kit/models/Grass_Clump_5.obj"
+dest_files=["res://.godot/imported/Grass_Clump_5.obj-8166a4af8edd410f6dde395439ea8bbf.mesh", "res://.godot/imported/Grass_Clump_5.obj-8166a4af8edd410f6dde395439ea8bbf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

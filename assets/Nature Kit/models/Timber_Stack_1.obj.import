@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c2b8mx02g7d23"
+path="res://.godot/imported/Timber_Stack_1.obj-b67b0e0388245b513ab06acac40ffaf2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Timber_Stack_1.obj-b67b0e0388245b513ab06acac40ffaf2.mesh"]
+
+source_file="res://assets/Nature Kit/models/Timber_Stack_1.obj"
+dest_files=["res://.godot/imported/Timber_Stack_1.obj-b67b0e0388245b513ab06acac40ffaf2.mesh", "res://.godot/imported/Timber_Stack_1.obj-b67b0e0388245b513ab06acac40ffaf2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

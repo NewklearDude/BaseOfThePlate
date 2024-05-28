@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://qaqsd8vhtrmu"
+path.s3tc="res://.godot/imported/Stump_2-3da962dc12cb9f9ec48a35ec668b37a4_Bark Stump.png-febe0d6dc4cf2dbbfb1402555c8160bf.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "42cca947b42aa444ffc6895a2211192d"
+}
+
+[deps]
+
+source_file="res://assets/Nature Kit/models/Stump_2-3da962dc12cb9f9ec48a35ec668b37a4_Bark Stump.png"
+dest_files=["res://.godot/imported/Stump_2-3da962dc12cb9f9ec48a35ec668b37a4_Bark Stump.png-febe0d6dc4cf2dbbfb1402555c8160bf.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

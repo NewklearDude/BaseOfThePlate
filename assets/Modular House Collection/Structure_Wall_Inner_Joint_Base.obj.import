@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bu8duobrqhpkd"
+path="res://.godot/imported/Structure_Wall_Inner_Joint_Base.obj-f900813cf7feb96281d4a92f20a305bc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Structure_Wall_Inner_Joint_Base.obj-f900813cf7feb96281d4a92f20a305bc.mesh"]
+
+source_file="res://assets/Modular House Collection/Structure_Wall_Inner_Joint_Base.obj"
+dest_files=["res://.godot/imported/Structure_Wall_Inner_Joint_Base.obj-f900813cf7feb96281d4a92f20a305bc.mesh", "res://.godot/imported/Structure_Wall_Inner_Joint_Base.obj-f900813cf7feb96281d4a92f20a305bc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

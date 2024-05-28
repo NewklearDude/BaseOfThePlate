@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://x7qppckd8jr4"
+path="res://.godot/imported/Prop_Well_1.obj-7f69a9a38f8b8f197e135cfd4def09ff.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Well_1.obj-7f69a9a38f8b8f197e135cfd4def09ff.mesh"]
+
+source_file="res://assets/Modular Village/Prop_Well_1.obj"
+dest_files=["res://.godot/imported/Prop_Well_1.obj-7f69a9a38f8b8f197e135cfd4def09ff.mesh", "res://.godot/imported/Prop_Well_1.obj-7f69a9a38f8b8f197e135cfd4def09ff.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

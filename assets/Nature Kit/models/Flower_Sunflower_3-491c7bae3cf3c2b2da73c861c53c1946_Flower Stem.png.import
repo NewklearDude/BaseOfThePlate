@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cbq20ur6cnt1t"
+path.s3tc="res://.godot/imported/Flower_Sunflower_3-491c7bae3cf3c2b2da73c861c53c1946_Flower Stem.png-68331fcd630d047f62ec6c005aadb97b.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "784aed610c6ecf2a6f52d66ea54a2210"
+}
+
+[deps]
+
+source_file="res://assets/Nature Kit/models/Flower_Sunflower_3-491c7bae3cf3c2b2da73c861c53c1946_Flower Stem.png"
+dest_files=["res://.godot/imported/Flower_Sunflower_3-491c7bae3cf3c2b2da73c861c53c1946_Flower Stem.png-68331fcd630d047f62ec6c005aadb97b.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

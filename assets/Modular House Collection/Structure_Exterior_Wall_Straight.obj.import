@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dangew3b8h11d"
+path="res://.godot/imported/Structure_Exterior_Wall_Straight.obj-151f2397853f992218af868ebcb09ef2.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Structure_Exterior_Wall_Straight.obj-151f2397853f992218af868ebcb09ef2.mesh"]
+
+source_file="res://assets/Modular House Collection/Structure_Exterior_Wall_Straight.obj"
+dest_files=["res://.godot/imported/Structure_Exterior_Wall_Straight.obj-151f2397853f992218af868ebcb09ef2.mesh", "res://.godot/imported/Structure_Exterior_Wall_Straight.obj-151f2397853f992218af868ebcb09ef2.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

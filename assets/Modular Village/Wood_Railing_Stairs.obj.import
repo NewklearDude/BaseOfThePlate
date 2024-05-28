@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://mbuufxrog33v"
+path="res://.godot/imported/Wood_Railing_Stairs.obj-42fdccac05325e242a0857f7e99bae2c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Wood_Railing_Stairs.obj-42fdccac05325e242a0857f7e99bae2c.mesh"]
+
+source_file="res://assets/Modular Village/Wood_Railing_Stairs.obj"
+dest_files=["res://.godot/imported/Wood_Railing_Stairs.obj-42fdccac05325e242a0857f7e99bae2c.mesh", "res://.godot/imported/Wood_Railing_Stairs.obj-42fdccac05325e242a0857f7e99bae2c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://jcvxhvttqtit"
+path="res://.godot/imported/Prop_Rug_Eclipse.obj-9bf84cc3dd2a519b6418cc22aae949cc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Rug_Eclipse.obj-9bf84cc3dd2a519b6418cc22aae949cc.mesh"]
+
+source_file="res://assets/Modular Temple/Prop_Rug_Eclipse.obj"
+dest_files=["res://.godot/imported/Prop_Rug_Eclipse.obj-9bf84cc3dd2a519b6418cc22aae949cc.mesh", "res://.godot/imported/Prop_Rug_Eclipse.obj-9bf84cc3dd2a519b6418cc22aae949cc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

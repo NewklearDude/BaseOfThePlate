@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bx65k0u0cc4ag"
+path="res://.godot/imported/Beach_Terrain_Sand_Transition_Gentle_Sharp_Flush_Crest.obj-e5d0b6c4beff415f73a5d1da2c9031fc.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Beach_Terrain_Sand_Transition_Gentle_Sharp_Flush_Crest.obj-e5d0b6c4beff415f73a5d1da2c9031fc.mesh"]
+
+source_file="res://assets/Modular Terrain Collection/Beach_Terrain_Sand_Transition_Gentle_Sharp_Flush_Crest.obj"
+dest_files=["res://.godot/imported/Beach_Terrain_Sand_Transition_Gentle_Sharp_Flush_Crest.obj-e5d0b6c4beff415f73a5d1da2c9031fc.mesh", "res://.godot/imported/Beach_Terrain_Sand_Transition_Gentle_Sharp_Flush_Crest.obj-e5d0b6c4beff415f73a5d1da2c9031fc.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

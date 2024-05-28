@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://gw3h41d3vmk3"
+path="res://.godot/imported/Wood_Post_Large.obj-5ab45b6b806304687b48f9cf41c4e7bf.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Wood_Post_Large.obj-5ab45b6b806304687b48f9cf41c4e7bf.mesh"]
+
+source_file="res://assets/Modular Village/Wood_Post_Large.obj"
+dest_files=["res://.godot/imported/Wood_Post_Large.obj-5ab45b6b806304687b48f9cf41c4e7bf.mesh", "res://.godot/imported/Wood_Post_Large.obj-5ab45b6b806304687b48f9cf41c4e7bf.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

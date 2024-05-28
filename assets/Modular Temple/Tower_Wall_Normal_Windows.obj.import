@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7dradh2irloi"
+path="res://.godot/imported/Tower_Wall_Normal_Windows.obj-186596d892a372306b3be23cbf3df7cb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Tower_Wall_Normal_Windows.obj-186596d892a372306b3be23cbf3df7cb.mesh"]
+
+source_file="res://assets/Modular Temple/Tower_Wall_Normal_Windows.obj"
+dest_files=["res://.godot/imported/Tower_Wall_Normal_Windows.obj-186596d892a372306b3be23cbf3df7cb.mesh", "res://.godot/imported/Tower_Wall_Normal_Windows.obj-186596d892a372306b3be23cbf3df7cb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

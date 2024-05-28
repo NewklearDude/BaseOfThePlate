@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dyxneepm682hm"
+path="res://.godot/imported/Structure_Kitchen_Bar_Center.obj-ef8321c4f31b612daef6be9ed479de4f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Structure_Kitchen_Bar_Center.obj-ef8321c4f31b612daef6be9ed479de4f.mesh"]
+
+source_file="res://assets/Modular House Collection/Structure_Kitchen_Bar_Center.obj"
+dest_files=["res://.godot/imported/Structure_Kitchen_Bar_Center.obj-ef8321c4f31b612daef6be9ed479de4f.mesh", "res://.godot/imported/Structure_Kitchen_Bar_Center.obj-ef8321c4f31b612daef6be9ed479de4f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

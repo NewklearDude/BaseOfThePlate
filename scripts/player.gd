@@ -1,70 +1,26 @@
 extends CharacterBody3D
 
-@onready var previous_window = DisplayServer.window_get_mode()
-@onready var current_window = DisplayServer.window_get_mode()
-
-signal pressed_jump(jump_state : JumpState)
-signal set_movement_state(_movement_state: MovementState)
-signal set_movement_direction(_movement_direction: Vector3)
-
-@export var max_air_jump : int = 1
-@export var jump_states : Dictionary
-@export var movement_states : Dictionary
-
-var air_jump_counter : int = 0
-var movement_direction : Vector3
-
-func _input(event):
-	if event.is_action_pressed("ui_cancel"):
-		get_tree().quit()
-		
-	if event.is_action("movement"):
-		movement_direction.x = Input.get_action_strength("left") - Input.get_action_strength("right")
-		movement_direction.z = Input.get_action_strength("forward") - Input.get_action_strength("back")
-		
-		if is_movement_ongoing():
-			if Input.is_action_pressed("sprint"):
-				set_movement_state.emit(movement_states["sprint"])
-			else:
-				if Input.is_action_pressed("walk"):
-					set_movement_state.emit(movement_states["walk"])
-				else:
-					set_movement_state.emit(movement_states["run"])
-		else:
-			set_movement_state.emit(movement_states["stand"])
-	if Input.is_action_just_pressed("toggle_fullscreen"):
-		current_window = DisplayServer.window_get_mode()
-		if current_window != 4:
-			previous_window = current_window
-			DisplayServer.window_set_mode(4)
-		else:
-			if previous_window == 4:
-				previous_window = 2
-			DisplayServer.window_set_mode(previous_window)
+var gravity = ProjectSettings.get_setting("physics/3d/default_gravity")
+var speed = 5
+var jump_speed = 5
+var mouse_sensitivity = 0.002
 
 func _ready():
-	set_movement_state.emit(movement_states["stand"])
-
+	Input.mouse_mode = Input.MOUSE_MODE_CAPTURED
 
 func _physics_process(delta):
-	if is_movement_ongoing():
-		set_movement_direction.emit(movement_direction)
+	velocity.y += -gravity * delta
+	var input = Input.get_vector("left", "right", "forward", "back")
+	var movement_dir = transform.basis * Vector3(input.x, 0, input.y)
+	velocity.x = movement_dir.x * speed
+	velocity.z = movement_dir.z * speed
 	
-	if is_on_floor():
-		air_jump_counter = 0
-	elif air_jump_counter ==0:
-		air_jump_counter =1
-	
-	if air_jump_counter <= max_air_jump:
-		if Input.is_action_just_pressed("jump"):
-			var jump_name = "ground_jump"
-			
-			if air_jump_counter > 0:
-				jump_name = "air_jump"
-				
-			pressed_jump.emit(jump_states[jump_name])
-			air_jump_counter += 1
+	move_and_slide()
+	if is_on_floor() and Input.is_action_just_pressed("jump"):
+		velocity.y = jump_speed
 
-
-func is_movement_ongoing() -> bool:
-	return abs(movement_direction.x) > 0 or abs(movement_direction.z) > 0
+func _input(event):
+	if event is InputEventMouseMotion:
+		rotate_y(-event.relative.x * mouse_sensitivity)
+		$Camera3D.rotate_x(-event.relative.y * mouse_sensitivity)
+		$Camera3D.rotation.x = clampf($Camera3D.rotation.x, -deg_to_rad(70), deg_to_rad(70))

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dbg0r7f33x8p7"
+path="res://.godot/imported/Shell_Salmon.obj-12b24b91f7e79eb13733fa5f306d7968.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Shell_Salmon.obj-12b24b91f7e79eb13733fa5f306d7968.mesh"]
+
+source_file="res://assets/Nature Kit/models/Shell_Salmon.obj"
+dest_files=["res://.godot/imported/Shell_Salmon.obj-12b24b91f7e79eb13733fa5f306d7968.mesh", "res://.godot/imported/Shell_Salmon.obj-12b24b91f7e79eb13733fa5f306d7968.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

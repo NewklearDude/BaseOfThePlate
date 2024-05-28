@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cnipsvsods7tw"
+path="res://.godot/imported/Shared_Terrain_Dirt_Gathered_Corner.obj-ca8e3e061ae75f80197b0126adee0412.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Shared_Terrain_Dirt_Gathered_Corner.obj-ca8e3e061ae75f80197b0126adee0412.mesh"]
+
+source_file="res://assets/Modular Terrain Collection/Shared_Terrain_Dirt_Gathered_Corner.obj"
+dest_files=["res://.godot/imported/Shared_Terrain_Dirt_Gathered_Corner.obj-ca8e3e061ae75f80197b0126adee0412.mesh", "res://.godot/imported/Shared_Terrain_Dirt_Gathered_Corner.obj-ca8e3e061ae75f80197b0126adee0412.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://rpn26pkt8e6c"
+path="res://.godot/imported/Structure_Kitchen_Bar_Edge.obj-630c0932bd5a49af8797d9a151fb908f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Structure_Kitchen_Bar_Edge.obj-630c0932bd5a49af8797d9a151fb908f.mesh"]
+
+source_file="res://assets/Modular House Collection/Structure_Kitchen_Bar_Edge.obj"
+dest_files=["res://.godot/imported/Structure_Kitchen_Bar_Edge.obj-630c0932bd5a49af8797d9a151fb908f.mesh", "res://.godot/imported/Structure_Kitchen_Bar_Edge.obj-630c0932bd5a49af8797d9a151fb908f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

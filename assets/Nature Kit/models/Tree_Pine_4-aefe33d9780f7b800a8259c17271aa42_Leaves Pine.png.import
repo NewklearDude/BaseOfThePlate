@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bbuwu6cn6qcjd"
+path.s3tc="res://.godot/imported/Tree_Pine_4-aefe33d9780f7b800a8259c17271aa42_Leaves Pine.png-c5df77144853c92476f4628987ac1b6c.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "fb0191e3282091d626d6ae332c684e87"
+}
+
+[deps]
+
+source_file="res://assets/Nature Kit/models/Tree_Pine_4-aefe33d9780f7b800a8259c17271aa42_Leaves Pine.png"
+dest_files=["res://.godot/imported/Tree_Pine_4-aefe33d9780f7b800a8259c17271aa42_Leaves Pine.png-c5df77144853c92476f4628987ac1b6c.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

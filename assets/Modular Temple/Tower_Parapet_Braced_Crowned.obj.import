@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dob3wcdu8d7bi"
+path="res://.godot/imported/Tower_Parapet_Braced_Crowned.obj-e656cad1d097f94b1c2ffdb40dae82d5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Tower_Parapet_Braced_Crowned.obj-e656cad1d097f94b1c2ffdb40dae82d5.mesh"]
+
+source_file="res://assets/Modular Temple/Tower_Parapet_Braced_Crowned.obj"
+dest_files=["res://.godot/imported/Tower_Parapet_Braced_Crowned.obj-e656cad1d097f94b1c2ffdb40dae82d5.mesh", "res://.godot/imported/Tower_Parapet_Braced_Crowned.obj-e656cad1d097f94b1c2ffdb40dae82d5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

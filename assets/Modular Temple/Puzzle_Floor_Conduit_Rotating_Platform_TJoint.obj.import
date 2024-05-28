@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://deqopxnu6vyyf"
+path="res://.godot/imported/Puzzle_Floor_Conduit_Rotating_Platform_TJoint.obj-e0aed33922f74d1af9b468ad21cadea0.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Puzzle_Floor_Conduit_Rotating_Platform_TJoint.obj-e0aed33922f74d1af9b468ad21cadea0.mesh"]
+
+source_file="res://assets/Modular Temple/Puzzle_Floor_Conduit_Rotating_Platform_TJoint.obj"
+dest_files=["res://.godot/imported/Puzzle_Floor_Conduit_Rotating_Platform_TJoint.obj-e0aed33922f74d1af9b468ad21cadea0.mesh", "res://.godot/imported/Puzzle_Floor_Conduit_Rotating_Platform_TJoint.obj-e0aed33922f74d1af9b468ad21cadea0.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

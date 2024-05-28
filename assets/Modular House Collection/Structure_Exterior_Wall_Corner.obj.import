@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://d38ugva8mnsa7"
+path="res://.godot/imported/Structure_Exterior_Wall_Corner.obj-fed4265e0faf84c2d098a52caf58fb3d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Structure_Exterior_Wall_Corner.obj-fed4265e0faf84c2d098a52caf58fb3d.mesh"]
+
+source_file="res://assets/Modular House Collection/Structure_Exterior_Wall_Corner.obj"
+dest_files=["res://.godot/imported/Structure_Exterior_Wall_Corner.obj-fed4265e0faf84c2d098a52caf58fb3d.mesh", "res://.godot/imported/Structure_Exterior_Wall_Corner.obj-fed4265e0faf84c2d098a52caf58fb3d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

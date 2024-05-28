@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b42peby3r0a80"
+path="res://.godot/imported/Roof_Accent_Rake_Convex.obj-1e2372bbdf2c9d82a3eadf677ea44fe5.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Roof_Accent_Rake_Convex.obj-1e2372bbdf2c9d82a3eadf677ea44fe5.mesh"]
+
+source_file="res://assets/Modular Village/Roof_Accent_Rake_Convex.obj"
+dest_files=["res://.godot/imported/Roof_Accent_Rake_Convex.obj-1e2372bbdf2c9d82a3eadf677ea44fe5.mesh", "res://.godot/imported/Roof_Accent_Rake_Convex.obj-1e2372bbdf2c9d82a3eadf677ea44fe5.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

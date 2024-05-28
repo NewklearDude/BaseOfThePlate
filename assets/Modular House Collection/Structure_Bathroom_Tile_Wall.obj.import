@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://gea8rsn38qga"
+path="res://.godot/imported/Structure_Bathroom_Tile_Wall.obj-4251595231157588a8c56f2140225553.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Structure_Bathroom_Tile_Wall.obj-4251595231157588a8c56f2140225553.mesh"]
+
+source_file="res://assets/Modular House Collection/Structure_Bathroom_Tile_Wall.obj"
+dest_files=["res://.godot/imported/Structure_Bathroom_Tile_Wall.obj-4251595231157588a8c56f2140225553.mesh", "res://.godot/imported/Structure_Bathroom_Tile_Wall.obj-4251595231157588a8c56f2140225553.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

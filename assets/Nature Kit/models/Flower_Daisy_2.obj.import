@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://56aqn8vp3tou"
+path="res://.godot/imported/Flower_Daisy_2.obj-6f5af32430903d9656f5930496596fec.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Flower_Daisy_2.obj-6f5af32430903d9656f5930496596fec.mesh"]
+
+source_file="res://assets/Nature Kit/models/Flower_Daisy_2.obj"
+dest_files=["res://.godot/imported/Flower_Daisy_2.obj-6f5af32430903d9656f5930496596fec.mesh", "res://.godot/imported/Flower_Daisy_2.obj-6f5af32430903d9656f5930496596fec.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

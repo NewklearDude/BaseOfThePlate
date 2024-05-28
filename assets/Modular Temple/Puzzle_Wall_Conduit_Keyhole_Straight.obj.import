@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dvwykfkfb8yli"
+path="res://.godot/imported/Puzzle_Wall_Conduit_Keyhole_Straight.obj-1c0be2846a2e148ac4e8359996235377.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Puzzle_Wall_Conduit_Keyhole_Straight.obj-1c0be2846a2e148ac4e8359996235377.mesh"]
+
+source_file="res://assets/Modular Temple/Puzzle_Wall_Conduit_Keyhole_Straight.obj"
+dest_files=["res://.godot/imported/Puzzle_Wall_Conduit_Keyhole_Straight.obj-1c0be2846a2e148ac4e8359996235377.mesh", "res://.godot/imported/Puzzle_Wall_Conduit_Keyhole_Straight.obj-1c0be2846a2e148ac4e8359996235377.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

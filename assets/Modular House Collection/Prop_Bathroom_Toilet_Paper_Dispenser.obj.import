@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dfak33xby72uj"
+path="res://.godot/imported/Prop_Bathroom_Toilet_Paper_Dispenser.obj-46cf1f8b5d9ad9f9fb4bc2c100afb120.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Bathroom_Toilet_Paper_Dispenser.obj-46cf1f8b5d9ad9f9fb4bc2c100afb120.mesh"]
+
+source_file="res://assets/Modular House Collection/Prop_Bathroom_Toilet_Paper_Dispenser.obj"
+dest_files=["res://.godot/imported/Prop_Bathroom_Toilet_Paper_Dispenser.obj-46cf1f8b5d9ad9f9fb4bc2c100afb120.mesh", "res://.godot/imported/Prop_Bathroom_Toilet_Paper_Dispenser.obj-46cf1f8b5d9ad9f9fb4bc2c100afb120.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

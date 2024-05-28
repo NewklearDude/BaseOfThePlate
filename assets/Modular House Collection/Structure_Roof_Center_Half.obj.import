@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://xtkljri7q6qg"
+path="res://.godot/imported/Structure_Roof_Center_Half.obj-5883a2656aef881a3635f458f57c2a58.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Structure_Roof_Center_Half.obj-5883a2656aef881a3635f458f57c2a58.mesh"]
+
+source_file="res://assets/Modular House Collection/Structure_Roof_Center_Half.obj"
+dest_files=["res://.godot/imported/Structure_Roof_Center_Half.obj-5883a2656aef881a3635f458f57c2a58.mesh", "res://.godot/imported/Structure_Roof_Center_Half.obj-5883a2656aef881a3635f458f57c2a58.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

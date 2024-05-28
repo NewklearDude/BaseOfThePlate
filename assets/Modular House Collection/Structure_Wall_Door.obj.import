@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dkde5r6ufukek"
+path="res://.godot/imported/Structure_Wall_Door.obj-72d98a15151a710eab5ae5eff8b46b23.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Structure_Wall_Door.obj-72d98a15151a710eab5ae5eff8b46b23.mesh"]
+
+source_file="res://assets/Modular House Collection/Structure_Wall_Door.obj"
+dest_files=["res://.godot/imported/Structure_Wall_Door.obj-72d98a15151a710eab5ae5eff8b46b23.mesh", "res://.godot/imported/Structure_Wall_Door.obj-72d98a15151a710eab5ae5eff8b46b23.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

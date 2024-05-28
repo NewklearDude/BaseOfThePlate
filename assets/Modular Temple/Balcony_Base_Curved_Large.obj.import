@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dkhs5u0fkbx8a"
+path="res://.godot/imported/Balcony_Base_Curved_Large.obj-dbbfc403d59513be9e742de9c4f9917d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Balcony_Base_Curved_Large.obj-dbbfc403d59513be9e742de9c4f9917d.mesh"]
+
+source_file="res://assets/Modular Temple/Balcony_Base_Curved_Large.obj"
+dest_files=["res://.godot/imported/Balcony_Base_Curved_Large.obj-dbbfc403d59513be9e742de9c4f9917d.mesh", "res://.godot/imported/Balcony_Base_Curved_Large.obj-dbbfc403d59513be9e742de9c4f9917d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

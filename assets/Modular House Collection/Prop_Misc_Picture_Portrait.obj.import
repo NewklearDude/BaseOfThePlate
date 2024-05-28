@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bgci778ymn37t"
+path="res://.godot/imported/Prop_Misc_Picture_Portrait.obj-f330968509be9c697b64cf322cae8aae.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Misc_Picture_Portrait.obj-f330968509be9c697b64cf322cae8aae.mesh"]
+
+source_file="res://assets/Modular House Collection/Prop_Misc_Picture_Portrait.obj"
+dest_files=["res://.godot/imported/Prop_Misc_Picture_Portrait.obj-f330968509be9c697b64cf322cae8aae.mesh", "res://.godot/imported/Prop_Misc_Picture_Portrait.obj-f330968509be9c697b64cf322cae8aae.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

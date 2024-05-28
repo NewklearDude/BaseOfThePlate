@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://cgj7h313r4vjw"
+path.s3tc="res://.godot/imported/Campfire_Star-d819f00ec8200616d9d27f6d6c8615d5_Bark Firewood.png-4d27d632bbd92b46bcd125822c32838c.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "42cca947b42aa444ffc6895a2211192d"
+}
+
+[deps]
+
+source_file="res://assets/Nature Kit/models/Campfire_Star-d819f00ec8200616d9d27f6d6c8615d5_Bark Firewood.png"
+dest_files=["res://.godot/imported/Campfire_Star-d819f00ec8200616d9d27f6d6c8615d5_Bark Firewood.png-4d27d632bbd92b46bcd125822c32838c.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

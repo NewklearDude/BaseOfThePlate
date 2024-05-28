@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dosoo2l16qy3p"
+path="res://.godot/imported/Wall_Curved_Large_Top.obj-01e1aeb21e22f7b45bdfe6caf926bb13.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Wall_Curved_Large_Top.obj-01e1aeb21e22f7b45bdfe6caf926bb13.mesh"]
+
+source_file="res://assets/Modular Temple/Wall_Curved_Large_Top.obj"
+dest_files=["res://.godot/imported/Wall_Curved_Large_Top.obj-01e1aeb21e22f7b45bdfe6caf926bb13.mesh", "res://.godot/imported/Wall_Curved_Large_Top.obj-01e1aeb21e22f7b45bdfe6caf926bb13.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

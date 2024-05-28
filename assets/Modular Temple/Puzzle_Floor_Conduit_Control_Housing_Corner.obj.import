@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://codoxm70v7nir"
+path="res://.godot/imported/Puzzle_Floor_Conduit_Control_Housing_Corner.obj-1f87db5c30f22cffc5fecc1aa705d739.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Puzzle_Floor_Conduit_Control_Housing_Corner.obj-1f87db5c30f22cffc5fecc1aa705d739.mesh"]
+
+source_file="res://assets/Modular Temple/Puzzle_Floor_Conduit_Control_Housing_Corner.obj"
+dest_files=["res://.godot/imported/Puzzle_Floor_Conduit_Control_Housing_Corner.obj-1f87db5c30f22cffc5fecc1aa705d739.mesh", "res://.godot/imported/Puzzle_Floor_Conduit_Control_Housing_Corner.obj-1f87db5c30f22cffc5fecc1aa705d739.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

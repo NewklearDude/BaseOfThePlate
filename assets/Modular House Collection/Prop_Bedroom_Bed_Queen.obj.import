@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c86w7epsd8ca1"
+path="res://.godot/imported/Prop_Bedroom_Bed_Queen.obj-95fb10dc266966b3441fd80163b6d51e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Prop_Bedroom_Bed_Queen.obj-95fb10dc266966b3441fd80163b6d51e.mesh"]
+
+source_file="res://assets/Modular House Collection/Prop_Bedroom_Bed_Queen.obj"
+dest_files=["res://.godot/imported/Prop_Bedroom_Bed_Queen.obj-95fb10dc266966b3441fd80163b6d51e.mesh", "res://.godot/imported/Prop_Bedroom_Bed_Queen.obj-95fb10dc266966b3441fd80163b6d51e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

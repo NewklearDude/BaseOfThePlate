@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://0gjhjopx7r1e"
+path="res://.godot/imported/Pillar_Wall_Top.obj-f15e63f2e64498446f6dc07115369d0f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Pillar_Wall_Top.obj-f15e63f2e64498446f6dc07115369d0f.mesh"]
+
+source_file="res://assets/Modular Temple/Pillar_Wall_Top.obj"
+dest_files=["res://.godot/imported/Pillar_Wall_Top.obj-f15e63f2e64498446f6dc07115369d0f.mesh", "res://.godot/imported/Pillar_Wall_Top.obj-f15e63f2e64498446f6dc07115369d0f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

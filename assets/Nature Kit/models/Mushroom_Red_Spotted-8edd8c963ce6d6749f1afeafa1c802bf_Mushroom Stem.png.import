@@ -1,0 +1,38 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://s00hpta8nlkc"
+path.s3tc="res://.godot/imported/Mushroom_Red_Spotted-8edd8c963ce6d6749f1afeafa1c802bf_Mushroom Stem.png-c1192a829f86a3fc2c3bfd85ec498a3a.s3tc.ctex"
+metadata={
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
+}
+generator_parameters={
+"md5": "6148e77cb2708c2b0856502f55970041"
+}
+
+[deps]
+
+source_file="res://assets/Nature Kit/models/Mushroom_Red_Spotted-8edd8c963ce6d6749f1afeafa1c802bf_Mushroom Stem.png"
+dest_files=["res://.godot/imported/Mushroom_Red_Spotted-8edd8c963ce6d6749f1afeafa1c802bf_Mushroom Stem.png-c1192a829f86a3fc2c3bfd85ec498a3a.s3tc.ctex"]
+
+[params]
+
+compress/mode=2
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=true
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=0

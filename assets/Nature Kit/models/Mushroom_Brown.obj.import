@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://fy0u8h15mmhw"
+path="res://.godot/imported/Mushroom_Brown.obj-07e716dffc37878bb8f958db39b14d93.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Mushroom_Brown.obj-07e716dffc37878bb8f958db39b14d93.mesh"]
+
+source_file="res://assets/Nature Kit/models/Mushroom_Brown.obj"
+dest_files=["res://.godot/imported/Mushroom_Brown.obj-07e716dffc37878bb8f958db39b14d93.mesh", "res://.godot/imported/Mushroom_Brown.obj-07e716dffc37878bb8f958db39b14d93.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

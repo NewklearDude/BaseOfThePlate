@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bj8vwvegjdx2y"
+path="res://.godot/imported/Stucco_Prop_Support_Beam_2.obj-b24534e6c8372cbe2979058d774e93cd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Stucco_Prop_Support_Beam_2.obj-b24534e6c8372cbe2979058d774e93cd.mesh"]
+
+source_file="res://assets/Modular Village/Stucco_Prop_Support_Beam_2.obj"
+dest_files=["res://.godot/imported/Stucco_Prop_Support_Beam_2.obj-b24534e6c8372cbe2979058d774e93cd.mesh", "res://.godot/imported/Stucco_Prop_Support_Beam_2.obj-b24534e6c8372cbe2979058d774e93cd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://hfcytifrcngn"
+path="res://.godot/imported/Flower_Violet_1.obj-16b4e8c34b455a2db1a67c48a377505f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Flower_Violet_1.obj-16b4e8c34b455a2db1a67c48a377505f.mesh"]
+
+source_file="res://assets/Nature Kit/models/Flower_Violet_1.obj"
+dest_files=["res://.godot/imported/Flower_Violet_1.obj-16b4e8c34b455a2db1a67c48a377505f.mesh", "res://.godot/imported/Flower_Violet_1.obj-16b4e8c34b455a2db1a67c48a377505f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

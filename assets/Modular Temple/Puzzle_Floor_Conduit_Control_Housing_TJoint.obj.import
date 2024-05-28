@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cwclpomc4qlew"
+path="res://.godot/imported/Puzzle_Floor_Conduit_Control_Housing_TJoint.obj-8fe85c0acdf06e3304eb1d0f65d50f18.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Puzzle_Floor_Conduit_Control_Housing_TJoint.obj-8fe85c0acdf06e3304eb1d0f65d50f18.mesh"]
+
+source_file="res://assets/Modular Temple/Puzzle_Floor_Conduit_Control_Housing_TJoint.obj"
+dest_files=["res://.godot/imported/Puzzle_Floor_Conduit_Control_Housing_TJoint.obj-8fe85c0acdf06e3304eb1d0f65d50f18.mesh", "res://.godot/imported/Puzzle_Floor_Conduit_Control_Housing_TJoint.obj-8fe85c0acdf06e3304eb1d0f65d50f18.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

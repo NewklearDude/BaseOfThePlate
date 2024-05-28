@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bh2nabfribjch"
+path="res://.godot/imported/Campfire_Star.obj-b95a0a68b9714fa5e0ca79155b09c188.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Campfire_Star.obj-b95a0a68b9714fa5e0ca79155b09c188.mesh"]
+
+source_file="res://assets/Nature Kit/models/Campfire_Star.obj"
+dest_files=["res://.godot/imported/Campfire_Star.obj-b95a0a68b9714fa5e0ca79155b09c188.mesh", "res://.godot/imported/Campfire_Star.obj-b95a0a68b9714fa5e0ca79155b09c188.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

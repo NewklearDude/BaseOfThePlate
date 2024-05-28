@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cqg28ltkwfr2i"
+path="res://.godot/imported/Puzzle_Floor_Conduit_Rotating_Platform_Corner.obj-a9f9b8f6e845ab88fb6cb668e7ddba1c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Puzzle_Floor_Conduit_Rotating_Platform_Corner.obj-a9f9b8f6e845ab88fb6cb668e7ddba1c.mesh"]
+
+source_file="res://assets/Modular Temple/Puzzle_Floor_Conduit_Rotating_Platform_Corner.obj"
+dest_files=["res://.godot/imported/Puzzle_Floor_Conduit_Rotating_Platform_Corner.obj-a9f9b8f6e845ab88fb6cb668e7ddba1c.mesh", "res://.godot/imported/Puzzle_Floor_Conduit_Rotating_Platform_Corner.obj-a9f9b8f6e845ab88fb6cb668e7ddba1c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

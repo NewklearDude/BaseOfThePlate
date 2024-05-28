@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://p4uh4oqgcqjo"
+path="res://.godot/imported/Floor_Curved_Small.obj-ddb66684fe6b66baa44e4b4f838ab3af.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Floor_Curved_Small.obj-ddb66684fe6b66baa44e4b4f838ab3af.mesh"]
+
+source_file="res://assets/Modular Temple/Floor_Curved_Small.obj"
+dest_files=["res://.godot/imported/Floor_Curved_Small.obj-ddb66684fe6b66baa44e4b4f838ab3af.mesh", "res://.godot/imported/Floor_Curved_Small.obj-ddb66684fe6b66baa44e4b4f838ab3af.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

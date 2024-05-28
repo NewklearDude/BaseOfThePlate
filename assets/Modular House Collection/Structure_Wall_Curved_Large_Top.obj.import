@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dnot5v4qyy3mg"
+path="res://.godot/imported/Structure_Wall_Curved_Large_Top.obj-38f75f737057187c72da70204608db4e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Structure_Wall_Curved_Large_Top.obj-38f75f737057187c72da70204608db4e.mesh"]
+
+source_file="res://assets/Modular House Collection/Structure_Wall_Curved_Large_Top.obj"
+dest_files=["res://.godot/imported/Structure_Wall_Curved_Large_Top.obj-38f75f737057187c72da70204608db4e.mesh", "res://.godot/imported/Structure_Wall_Curved_Large_Top.obj-38f75f737057187c72da70204608db4e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
