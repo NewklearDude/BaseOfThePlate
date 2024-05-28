@@ -1,0 +1,3 @@
+Use an instance of a stand model to attach to the player character (instantiate command under func process)
+Make it unsummon/summon with a keybind in input function
+Could use simillar code for a normal weapon, and make it function like a stand instead
